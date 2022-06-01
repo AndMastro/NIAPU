@@ -25,7 +25,7 @@ which outputs **nedbit_features** file with the newly computed features.
 
 Use the provided ```APU.R``` file taking as input **nedbit_features** to obtain a gene ranking.
 
-* Step 3: ML classification
+* Step 3: **ML classification**
 
 Once you obtained the ranking, you can assign pseudo-labels to unlabbeled genes from it (details are in the paper below). We provide as an example a python script ```classification.py``` that reproduces the choices made in the paper and uses three ML algorithm (MLP, RF and SVM) to perform classification. This script is ready-to-use even without performing the steps above if one wants to use the provided disease file, PPI and features. However, one can decide to use their favorite classifiers and data. 
 
