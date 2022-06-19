@@ -21,7 +21,8 @@ Diffusion<- function(nDat, vP, vRN, mW_norm, dAlpha){
   return(DiffOut)
 }
 
-dir_out<- '../data/APU_scores'
+dir_out<- '../NeDBIT_features/'
+#dir_save<- '../data/APU_scores/'
 setwd(dir_out)
 disease_folder <- list.files(dir_out, full.names = TRUE)
 disease_name <-list.files(dir_out, full.names = FALSE)
@@ -84,6 +85,7 @@ for(dis in 1:nDisease){
     dat_prova <- data.frame(dat_$name, DiffOut$vG)
     colnames(dat_prova) <- c('name', 'out')
     sName <- paste(sNameData, '_Score.csv', sep='')
+    #sName <- paste(dir_save, sNameData, '_Score.csv', sep='')
     write.csv(dat_prova, sName, row.names = FALSE)
   #}
 }
