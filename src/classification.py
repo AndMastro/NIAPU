@@ -54,10 +54,10 @@ for DISEASE_NAME in tqdm(DISEASE_NAMES):
     MODEL_PATH = "../models/" + DISEASE_NAME + "_"
 
     if not os.path.exists(SAVE_PATH):
-            os.mkdir(SAVE_PATH)
+            os.makedirs(SAVE_PATH)
 
     if not os.path.exists(MODEL_PATH):
-            os.mkdir(MODEL_PATH)
+            os.makedirs(MODEL_PATH)
 
     #load APU scores
     APU_scores_df = pd.read_csv(GENE_APU_SCORES_PATH) #diffusion scores for ALL THE GENES in the PPI
