@@ -23,7 +23,7 @@ which outputs **nedbit_features** file with the newly computed features.
 
 * Step 2: **Adaptive PU labelling**
 
-Use the provided ```APU.R``` file taking as input **nedbit_features** to obtain a gene ranking (the script will access the folder "../data/NedBIT_features/" to look for features files by default, but it can be changed at will).
+Use the provided ```APU.R``` file taking as input **nedbit_features** to obtain a gene ranking (the script will access the folder ```../data/NedBIT_features/``` to look for features files by default, but it can be changed at will).
 
 * Step 3: **ML classification**
 
