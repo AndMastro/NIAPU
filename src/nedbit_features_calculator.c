@@ -5,11 +5,7 @@
 #include <float.h>
 #include <time.h>
 
-/* .....................................
-   .....GENERATORE DI NUMERI RANDOM.....
-   .(da usare solo con interi a 64 bit).
-   ..................................... */
-/* ..................................... */
+
 #ifdef UNIX
 #define geneRand drand48()
 int seed = 34652, startseed;
@@ -239,7 +235,7 @@ int *Clusters(Link *link, int *nc) {
   int i, *field, nclust, dimclust, sumclust, change;
   Link *elem;
 
-  // crea field per la connessione
+  
   field = (int *)malloc(nnodi * sizeof(int));
   memset(field, 0, nnodi * sizeof(int));
   nclust = 1;
@@ -278,7 +274,7 @@ int *ClustersSeedGenes(Link *link, Node *genes, int *nc) {
   int i, *field, nclust, dimclust, sumclust, change;
   Link *elem;
 
-  // crea field per la connessione
+  
   field = (int *)malloc(nnodi * sizeof(int));
   memset(field, 0, nnodi * sizeof(int));
   nclust = 1;
@@ -325,7 +321,7 @@ void netRank(Link *link, Node *genes, int *degree) {
   double sum;
   Link *elem;
 
-  // crea field per la connessione e il rank
+  
   memset(ring, 0, nnodi * sizeof(int));
   memset(count, 0, nnodi * sizeof(int));
   memset(rank, 0, nnodi * sizeof(double));
