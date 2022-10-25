@@ -23,10 +23,16 @@ which outputs **nedbit_features** file with the newly computed features.
 
 * Step 2: **Adaptive PU labelling**
 
-Use the provided ```APU.R``` file taking as input **nedbit_features** to obtain a gene ranking (the script will access the folder ```../data/NedBIT_features/``` to look for features files by default, but it can be changed at will).
+After having compiled ```apu_label_propagation.c```, execute it. It takes as input **nedbit_features**, a 0/1 Boolean value indicating the presence of an header in the features file, the name of the output gene ranking and two float values indicating the quantile threshold for the removal of weak links and for the Reliable Negative computation, respectively.
+
+```
+./apu_label_propagation nedbit_features HEADER_PRESENCE output_gene_ranking 0.05 0.2 
+```
+
+Of course, one is free to use their own features with the APU labelling system, provided the correct format.
 
 * Step 3: **ML classification**
 
-Once you obtained the ranking, you can assign pseudo-labels to unlabbeled genes from it (details are in the paper). We provide as an example a python script ```classification.py``` that reproduces the choices made in the paper and uses three ML algorithm (MLP, RF and SVM) to perform classification. This script is ready-to-use even without performing the steps above if one wants to use the provided disease file and features. It will look for APU scores in the folder ```../data/APU_scores/```. Filename format is specified in the file. However, one can decide to use their favorite classifiers and data. 
+Once you obtained the ranking along with the pseudo-labels, you can use those to train ML algorithms. We provide as an example a python script ```classification.py``` that reproduces the choices made in the paper and uses three ML algorithm (MLP, RF and SVM) to perform classification. This script is ready-to-use even without performing the steps above if one wants to use the provided disease file and features. It will look for APU scores in the folder ```../data/APU_scores/```. Filename format is specified in the file. However, one can decide to use their favorite classifiers and data. 
 
-Currently, the feature computation code is written in C for efficiency reasons, but we are working on a full python-based pipeline to be provided as a standalone tool that can be easilty used by everyone.
+The feature computation code and the label propagation algorithm are written in C for efficiency reasons, we improved the previous R implementation obtaining a great speedup in terms of computation time.
