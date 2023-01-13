@@ -35,4 +35,4 @@ Of course, one is free to use their own features with the APU labelling system, 
 
 Once you obtained the ranking along with the pseudo-labels, you can use those to train ML algorithms. We provide as an example a python script ```classification.py``` that reproduces the choices made in the paper and uses three ML algorithm (MLP, RF and SVM) to perform classification. This script is ready-to-use even without performing the steps above if one wants to use the provided disease file and features. It will look for APU scores in the folder ```../data/APU_scores/```. Filename format is specified in the file. However, one can decide to use their favorite classifiers and data. 
 
-The feature computation code and the label propagation algorithm are written in C for efficiency reasons; we improved the previous R implementation obtaining a great speedup of the execution time.
+The feature computation code and the label propagation algorithm are written in C for efficiency reasons, we improved the previous R implementation obtaining a great speedup in terms of computation time.
