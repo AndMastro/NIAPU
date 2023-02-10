@@ -1,5 +1,5 @@
 # NIAPU
-This is the official implementation for **NIAPU: network-informed adaptive positive-unlabelled learning for disease genes identification**
+This is the official implementation for **NIAPU: network-informed adaptive positive-unlabeled learning for disease genes identification**
 
 NIAPU is formed by two main components: the computation of the NeDBIT (Network diffusion and biology-informed topological) features and the usage of APU (Adaptive Positive-Unlabelled label propagation).
 
@@ -36,3 +36,9 @@ Of course, one is free to use their own features with the APU labelling system, 
 Once you obtained the ranking along with the pseudo-labels, you can use those to train ML algorithms. We provide as an example a python script ```classification.py``` that reproduces the choices made in the paper and uses three ML algorithm (MLP, RF and SVM) to perform classification. This script is ready-to-use even without performing the steps above if one wants to use the provided disease file and features. It will look for APU scores in the folder ```../data/APU_scores/```. Filename format is specified in the file. However, one can decide to use their favorite classifiers and data. 
 
 The feature computation code and the label propagation algorithm are written in C for efficiency reasons; we improved the previous R implementation obtaining a great speedup of the execution time.
+
+## Citation
+
+If you our our work, please cite our paper 😊
+
+Paola Stolfi, Andrea Mastropietro, Giuseppe Pasculli, Paolo Tieri, Davide Vergni, NIAPU: Network-Informed Adaptive Positive-Unlabeled learning for disease gene identification, Bioinformatics, 2023;, btac848, https://doi.org/10.1093/bioinformatics/btac848
