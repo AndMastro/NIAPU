@@ -1,5 +1,8 @@
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+
 # NIAPU
-This is the official implementation for **NIAPU: network-informed adaptive positive-unlabeled learning for disease genes identification**
+
+This is the official implementation for [**NIAPU: network-informed adaptive positive-unlabeled learning for disease genes identification**](https://doi.org/10.1093/bioinformatics/btac848).
 
 NIAPU is formed by two main components: the computation of the NeDBIT (Network diffusion and biology-informed topological) features and the usage of APU (Adaptive Positive-Unlabelled label propagation).
 
