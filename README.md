@@ -42,6 +42,6 @@ The feature computation code and the label propagation algorithm are written in 
 
 ## Citation
 
-If you our our work, please cite our paper 😊
+If you use our work, please cite our paper 😊
 
 Paola Stolfi, Andrea Mastropietro, Giuseppe Pasculli, Paolo Tieri, Davide Vergni, NIAPU: Network-Informed Adaptive Positive-Unlabeled learning for disease gene identification, Bioinformatics, 2023;, btac848, https://doi.org/10.1093/bioinformatics/btac848
