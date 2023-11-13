@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/NIAPU_LOGO.svg" alt="NIAPU logo" width=30%>
+</p>
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 
 # NIAPU
