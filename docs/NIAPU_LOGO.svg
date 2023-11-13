@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1500 599.251" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<g id="Fill">
+<path d="M170.763 457.232L170.763 154.735L212.399 154.735L277.826 336.998L278.676 336.998L278.676 154.735L322.011 154.735L322.011 457.232L281.225 457.232L214.948 275.394L214.098 275.394L214.098 457.232L170.763 457.232Z"/>
+<path d="M452.373 457.232L452.373 154.735L495.708 154.735L495.708 457.232L452.373 457.232Z"/>
+<path d="M715.289 351.443L694.046 241.83L693.196 241.83L671.954 351.443L715.289 351.443ZM608.225 457.232L675.777 154.735L711.89 154.735L779.442 457.232L736.107 457.232L723.361 392.229L664.306 392.229L651.561 457.232L608.225 457.232Z"/>
+<path d="M890.685 457.232L890.685 154.735L955.688 154.735C967.584 154.735 978.063 156.293 987.127 159.408C996.191 162.524 1004.4 168.047 1011.77 175.978C1019.13 183.908 1024.23 193.184 1027.06 203.806C1029.9 214.427 1031.31 228.802 1031.31 246.929C1031.31 260.524 1030.53 271.995 1028.98 281.342C1027.42 290.689 1024.09 299.469 1018.99 307.683C1013.04 317.596 1005.11 325.315 995.199 330.838C985.286 336.361 972.257 339.122 956.113 339.122L934.02 339.122L934.02 457.232L890.685 457.232ZM934.02 195.521L934.02 298.336L954.838 298.336C963.618 298.336 970.416 297.062 975.231 294.513C980.046 291.963 983.587 288.423 985.852 283.891C988.118 279.643 989.464 274.403 989.889 268.171C990.313 261.94 990.526 255.001 990.526 247.354C990.526 240.273 990.384 233.546 990.101 227.173C989.818 220.8 988.543 215.206 986.277 210.391C984.011 205.576 980.613 201.894 976.081 199.345C971.549 196.796 965.035 195.521 956.537 195.521L934.02 195.521Z"/>
+<path d="M1293.8 154.735L1293.8 389.255C1293.8 399.169 1292.03 408.303 1288.49 416.658C1284.95 425.014 1279.92 432.449 1273.41 438.963C1266.9 445.478 1259.39 450.576 1250.89 454.258C1242.4 457.94 1233.33 459.781 1223.7 459.781C1214.07 459.781 1205.08 457.94 1196.72 454.258C1188.37 450.576 1180.93 445.478 1174.42 438.963C1167.9 432.449 1162.81 425.014 1159.12 416.658C1155.44 408.303 1153.6 399.169 1153.6 389.255L1153.6 154.735L1196.94 154.735L1196.94 385.007C1196.94 395.77 1199.49 403.7 1204.58 408.799C1209.68 413.897 1216.05 416.446 1223.7 416.446C1231.35 416.446 1237.72 413.897 1242.82 408.799C1247.92 403.7 1250.47 395.77 1250.47 385.007L1250.47 154.735L1293.8 154.735Z"/>
+</g>
+<path d="M366.198 307.946C366.198 296.9 375.152 287.946 386.198 287.946C397.243 287.946 406.198 296.9 406.198 307.946C406.198 318.991 397.243 327.946 386.198 327.946C375.152 327.946 366.198 318.991 366.198 307.946Z" id="Fill_2"/>
+<path d="M535.591 307.946C535.591 291.377 549.022 277.946 565.591 277.946C582.159 277.946 595.591 291.377 595.591 307.946C595.591 324.514 582.159 337.946 565.591 337.946C549.022 337.946 535.591 324.514 535.591 307.946Z" id="Fill_3"/>
+<path d="M790.198 307.946C790.198 291.377 803.629 277.946 820.198 277.946C836.766 277.946 850.198 291.377 850.198 307.946C850.198 324.514 836.766 337.946 820.198 337.946C803.629 337.946 790.198 324.514 790.198 307.946Z" id="Fill_4"/>
+<path d="M366.198 148.232C366.198 137.186 375.152 128.232 386.198 128.232C397.243 128.232 406.198 137.186 406.198 148.232C406.198 159.278 397.243 168.232 386.198 168.232C375.152 168.232 366.198 159.278 366.198 148.232Z" id="Fill_5"/>
+<path d="M1332.58 189.479C1332.58 172.91 1346.01 159.479 1362.58 159.479C1379.15 159.479 1392.58 172.91 1392.58 189.479C1392.58 206.047 1379.15 219.479 1362.58 219.479C1346.01 219.479 1332.58 206.047 1332.58 189.479Z" id="Fill_6"/>
+<path d="M585.591 71.0115C585.591 59.9658 594.545 51.0115 605.591 51.0115C616.636 51.0115 625.591 59.9658 625.591 71.0115C625.591 82.0572 616.636 91.0115 605.591 91.0115C594.545 91.0115 585.591 82.0572 585.591 71.0115Z" id="Fill_7"/>
+<path d="M98.0347 437.232C98.0347 426.186 106.989 417.232 118.035 417.232C129.08 417.232 138.035 426.186 138.035 437.232C138.035 448.278 129.08 457.232 118.035 457.232C106.989 457.232 98.0347 448.278 98.0347 437.232Z" id="Fill_8"/>
+<path d="M1149.13 505.576C1149.13 494.531 1158.09 485.576 1169.13 485.576C1180.18 485.576 1189.13 494.531 1189.13 505.576C1189.13 516.622 1180.18 525.576 1169.13 525.576C1158.09 525.576 1149.13 516.622 1149.13 505.576Z" id="Fill_9"/>
+<path d="M1047.67 307.946C1047.67 285.854 1065.57 267.946 1087.67 267.946C1109.76 267.946 1127.67 285.854 1127.67 307.946C1127.67 330.037 1109.76 347.946 1087.67 347.946C1065.57 347.946 1047.67 330.037 1047.67 307.946Z" id="Fill_10"/>
+<path d="M758.133 148.232C758.133 137.186 767.087 128.232 778.133 128.232C789.178 128.232 798.133 137.186 798.133 148.232C798.133 159.278 789.178 168.232 778.133 168.232C767.087 168.232 758.133 159.278 758.133 148.232Z" id="Fill_11"/>
+<path d="M545.591 467.659C545.591 456.614 554.545 447.659 565.591 447.659C576.636 447.659 585.591 456.614 585.591 467.659C585.591 478.705 576.636 487.659 565.591 487.659C554.545 487.659 545.591 478.705 545.591 467.659Z" id="Fill_12"/>
+</defs>
+<g id="Livello-1" vectornator:layerName="Livello 1">
+<path d="M565.591 307.946L565.591 467.659" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 4"/>
+<path d="M118.035 437.232L386.198 307.946" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 7"/>
+<path d="M386.198 307.946L1081.2 307.946" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 1"/>
+<path d="M1081.2 307.946L1362.58 189.479" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 8"/>
+<path d="M386.198 307.946L386.198 148.232" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 5"/>
+<g opacity="1" vectornator:layerName="Text 1">
+<use fill="#000000" stroke="none" xlink:href="#Fill"/>
+<mask height="2581.13" id="StrokeMask" maskUnits="userSpaceOnUse" width="3399.12" x="-967.278" y="-983.305">
+<rect fill="#ffffff" height="2581.13" stroke="none" width="3399.12" x="-967.278" y="-983.305"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask)" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill"/>
+</g>
+<path d="M1081.2 307.946L1174.13 517.576" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 3"/>
+<path d="M820.198 307.946L778.133 148.232" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 6"/>
+<g opacity="1" vectornator:layerName="Ovale 2">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_2"/>
+<mask height="50" id="StrokeMask_2" maskUnits="userSpaceOnUse" width="50" x="361.198" y="282.946">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="361.198" y="282.946"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_2"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_2)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_2"/>
+</g>
+<path d="M565.591 307.946L605.591 71.0115" fill="none" opacity="1" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="15" vectornator:layerName="Linea 2"/>
+<g opacity="1" vectornator:layerName="Ovale 3">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_3"/>
+<mask height="70" id="StrokeMask_3" maskUnits="userSpaceOnUse" width="70" x="530.591" y="272.946">
+<rect fill="#ffffff" height="70" stroke="none" width="70" x="530.591" y="272.946"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_3"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_3)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_3"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 11">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_4"/>
+<mask height="70" id="StrokeMask_4" maskUnits="userSpaceOnUse" width="70" x="785.198" y="272.946">
+<rect fill="#ffffff" height="70" stroke="none" width="70" x="785.198" y="272.946"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_4"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_4)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_4"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 5">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_5"/>
+<mask height="50" id="StrokeMask_5" maskUnits="userSpaceOnUse" width="50" x="361.198" y="123.232">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="361.198" y="123.232"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_5"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_5)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_5"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 8">
+<use fill="#c6c0c0" fill-rule="nonzero" stroke="none" xlink:href="#Fill_6"/>
+<mask height="70" id="StrokeMask_6" maskUnits="userSpaceOnUse" width="70" x="1327.58" y="154.479">
+<rect fill="#ffffff" height="70" stroke="none" width="70" x="1327.58" y="154.479"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_6"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_6)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_6"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 6">
+<use fill="#c6c0c0" fill-rule="nonzero" stroke="none" xlink:href="#Fill_7"/>
+<mask height="50" id="StrokeMask_7" maskUnits="userSpaceOnUse" width="50" x="580.591" y="46.0115">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="580.591" y="46.0115"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_7"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_7)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_7"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 9">
+<use fill="#c6c0c0" fill-rule="nonzero" stroke="none" xlink:href="#Fill_8"/>
+<mask height="50" id="StrokeMask_8" maskUnits="userSpaceOnUse" width="50" x="93.0347" y="412.232">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="93.0347" y="412.232"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_8"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_8)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_8"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 7">
+<use fill="#c6c0c0" fill-rule="nonzero" stroke="none" xlink:href="#Fill_9"/>
+<mask height="50" id="StrokeMask_9" maskUnits="userSpaceOnUse" width="50" x="1144.13" y="480.576">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="1144.13" y="480.576"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_9"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_9)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_9"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 12">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_10"/>
+<mask height="90" id="StrokeMask_10" maskUnits="userSpaceOnUse" width="90" x="1042.67" y="262.946">
+<rect fill="#ffffff" height="90" stroke="none" width="90" x="1042.67" y="262.946"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_10"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_10)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_10"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 10">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_11"/>
+<mask height="50" id="StrokeMask_11" maskUnits="userSpaceOnUse" width="50" x="753.133" y="123.232">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="753.133" y="123.232"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_11"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_11)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_11"/>
+</g>
+<g opacity="1" vectornator:layerName="Ovale 1">
+<use fill="#b73030" fill-rule="nonzero" stroke="none" xlink:href="#Fill_12"/>
+<mask height="50" id="StrokeMask_12" maskUnits="userSpaceOnUse" width="50" x="540.591" y="442.659">
+<rect fill="#ffffff" height="50" stroke="none" width="50" x="540.591" y="442.659"/>
+<use fill="#000000" fill-rule="evenodd" stroke="none" xlink:href="#Fill_12"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask_12)" stroke="#9b9b9b" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10" xlink:href="#Fill_12"/>
+</g>
+</g>
+</svg>
